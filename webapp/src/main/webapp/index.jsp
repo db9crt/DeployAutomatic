@@ -1,5 +1,6 @@
 <h1>Welcome to DevOps Learning Website...</h1>
-
+<h2>Welcome Dona. This is your automatic deploy webpage </h2>
+<h3>This is the new page after automatic deployment</h3>
 <h2>MANUAL DEPLOYMENT OF A SIMPLE WEBSITE ON APACHE TOMCAT SERVER IN WINDOWS ENVIRONMENT </h2>
 
 <h3>In this practice, you are working on building a simple web app, and deploying it on a webserver from Scratch</h3>
